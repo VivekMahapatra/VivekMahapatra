@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working at CVS Health as a SWE<br>🌱 Also studying AI and Computer Science as part the GATech OMSCS Masters program<br>🧠 I love learning new ways to automate daily tasks. My first ever CS teacher taught me that good software engineers think like lazy people - they ask, what can I build so I do NOT have to do this job anymore?<br>💻 checkout my website! [![Website](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://vivekmahapatra.github.io/#projects)🥼 Master of starting 5000 projects and figuring out if they work later<br>💬 Feel free to reach out about collaborations or python help!<br>🏃 Fun Fact: I can (sometimes) do a front flip
+🔭 I'm currently working at CVS Health as a SWE<br>🌱 Also studying AI and Computer Science as part the GATech OMSCS Masters program<br>🧠 I love learning new ways to automate daily tasks. My first ever CS teacher taught me that good software engineers think like lazy people - they ask, what can I build so I do NOT have to do this job anymore?<br>💻 checkout [my website](https://vivekmahapatra.github.io/)!<br>🥼 Master of starting 5000 projects and figuring out if they work later<br>💬 Feel free to reach out about collaborations or python help!<br>🏃 Fun Fact: I can (sometimes) do a front flip
 
 
 ## 🌐 Socials:
